@@ -18,7 +18,7 @@ The Flask Character Data API is a RESTful API that provides information about ch
  - Get Character by Chapter
    - Endpoint: /characters/chapter/<chapter>
    - Method: GET
-  - Description: Get information about characters introduced from specific chapter.
+   - Description: Get information about characters introduced from specific chapter.
  - Get Characters by Chapter Range
    - Endpoint: /characters/chapter/range/<chapter1>-<chapter2>
    - Method: GET
