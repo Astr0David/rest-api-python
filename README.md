@@ -1,7 +1,10 @@
 # Flask Character Data API
 
 The Flask Character Data API is a RESTful API that provides information about characters from One Piece. It offers various endpoints to query and retrieve character data based on different criteria such as name, episode, chapter, year, and more.
+
 Find the json with list of characters in files.
+
+Currently deployed on render here: https://onepiece-character-api.onrender.com/characters
 
 ### Endpoints
  - Get All Characters
