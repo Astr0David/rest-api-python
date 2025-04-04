@@ -4,7 +4,7 @@ The Flask Character Data API is a RESTful API that provides information about ch
 
 Find the json with list of characters in files.
 
-Currently deployed on render here: https://onepiece-character-api.onrender.com/characters
+Currently not deployed...
 
 ### Endpoints
  - Get All Characters
